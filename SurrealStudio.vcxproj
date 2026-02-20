@@ -127,6 +127,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Source\Engine\Application.cpp" />
+    <ClCompile Include="Source\Engine\Scene\Scene.cpp" />
+    <ClCompile Include="Source\Engine\Scene\Subscene.cpp" />
     <ClCompile Include="Source\EntryPoint.cpp" />
     <ClCompile Include="Source\SurrealEditor\SurrealStudioMainWindow.cpp" />
   </ItemGroup>
@@ -135,6 +137,8 @@
     <ClInclude Include="Source\Engine\EngineDefines.h" />
     <ClInclude Include="Source\Engine\Logging.h" />
     <ClInclude Include="Source\Engine\Platform.h" />
+    <ClInclude Include="Source\Engine\Scene\Scene.h" />
+    <ClInclude Include="Source\Engine\Scene\Subscene.h" />
     <ClInclude Include="Source\SurrealEditor\SurrealStudioMainWindow.h" />
   </ItemGroup>
   <ItemGroup>
