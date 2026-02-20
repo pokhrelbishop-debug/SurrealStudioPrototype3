@@ -1,0 +1,14 @@
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.pdb
+*.obj
+*.log
+*.tlog
+*.recipe
+*.iobj
+*.ipdb
+*.dll
+*.exe
